@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://sharmasonu.netlify.app/](https://sharmasonu.netlify.app/)
 
